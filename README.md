@@ -238,7 +238,10 @@ RISE Project Deliverable 6.1. Available at
 Nievas CI, Crowley H, Reuland Y, Weatherill G, Baltzopoulos G, Bayliss K, Chatzi E, Chioccarelli
 E, Guéguen P, Iervolino I, Marzocchi W, Naylor M, Orlacchio M, Pejovic J, Popovic N, Serafini F,
 Serdar N (2023) Integration of RISE innovations in the fields of OELF, RLA and SHM: input and
-output datasets (Version 1.0) [Data set]. Zenodo. (ZENODO DOI TO BE ADDED HERE)
+output datasets (Version 1.0) [Data set]. Zenodo.
+[https://doi.org/10.5281/zenodo.7784841](https://doi.org/10.5281/zenodo.7784841)
+
+[![DOI](https://zenodo.org/badge/621255096.svg)](https://zenodo.org/badge/latestdoi/621255096)
 
 ## License
 
